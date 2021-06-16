@@ -1,4 +1,4 @@
-alert("if you need more iformation write yes if not write no") ;
+confirm("if you need more iformation write yes if not write no");
 var x = prompt("do you need something else");
 var o = 15;
 var y = 12;
@@ -22,3 +22,5 @@ if(x == "yes"){
    else {
      alert("fine")
    }
+     confirm("Press a button!");
+
