@@ -14,13 +14,4 @@ if(x == "yes"){
      console.log('this is ropot');
      console.log(o+y,o-y,o/y);
    }
-   var y = prompt("write print to print the artical");
-   if ( y == "print")
-   {
-     print ("hi");
-   }
-   else {
-     alert("fine")
-   }
-     confirm("Press a button!");
 
