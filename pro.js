@@ -35,5 +35,20 @@ var g = prompt("give us rate");
 //    {
 //      alert("as you want");
 //    }
+<<<<<<< HEAD
 
+=======
+   
+<<<<<<< HEAD
+//    else {
+//      console.log('this is ropot');
+//      console.log(o+y,o-y,o/y);
+//    }
+=======
+//    else {
+//      console.log('this is ropot');
+//      console.log(o+y,o-y,o/y);
+//    }
+// >>>>>>> 5f02fb9ee724c5197a7a337311d85c2e8f902f50
+// >>>>>>> 6f855699a58db4794d0922792461b971e009cfd8
 
