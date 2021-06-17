@@ -35,9 +35,5 @@ var g = prompt("give us rate");
 //    {
 //      alert("as you want");
 //    }
-   
-//    else {
-//      console.log('this is ropot');
-//      console.log(o+y,o-y,o/y);
-//    }
+
 
