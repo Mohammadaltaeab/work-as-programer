@@ -1,5 +1,6 @@
-var num1 = prompt("the first")
-var num2 = prompt("the second")
+confirm("you need to summation number")
+var num1 = prompt("the first number")
+var num2 = prompt("the second number")
 function sum(n1,n2){
   var result =parseInt(n1) +parseInt(n2);
   console
@@ -8,13 +9,13 @@ function sum(n1,n2){
 }
 var result=sum(num1,num2);
 var x =prompt("what is the answer");
-confirm("the answer was"+result );
+confirm("the answer was = "+result );
 console.log(result);
 
  while(result != x){
 
-   var num1 = prompt("the first")
-var num2 = prompt("the second")
+ var num1 = prompt("the first number")
+var num2 = prompt("the second number")
 function sum(n1,n2){
   var result =parseInt(n1) +parseInt(n2);
   console
