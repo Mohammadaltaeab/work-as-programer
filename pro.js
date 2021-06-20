@@ -1,30 +1,64 @@
-var b = prompt("Enter the first number");
-var a = prompt("Enter the second number");
-var c  = prompt("Enter the third number");
-var d = prompt("Enter fourth number");
-var f=b+a+c+d;
-var x = prompt("confirm the password");
-
-console.log(f + " this was the rit ansower");
-console.log(x)
-while(x != f ){
-  var a = prompt("Enter first number");
- var b = prompt("Enter second number");
- var c  = prompt("Enter the third number");
- var d = prompt("Enter the fourth number");
- var f=b+a+c+d;
- var x = prompt("confirm the password"); 
- 
- console.log(f + " this was the right ansower");
+var num1 = prompt("the first")
+var num2 = prompt("the second")
+function sum(n1,n2){
+  var result =parseInt(n1) +parseInt(n2);
+  console
+  console.log(n1+n2)
+  return result
 }
-var g = prompt("give us rate");
+var result=sum(num1,num2);
+var x =prompt("what is the answer");
+confirm("the answer was"+result );
+console.log(result);
+
+ while(result != x){
+
+   var num1 = prompt("the first")
+var num2 = prompt("the second")
+function sum(n1,n2){
+  var result =parseInt(n1) +parseInt(n2);
+  console
+  console.log(n1+n2)
+  return result
+}
+var result=sum(num1,num2);
+var x =prompt("what is the answer");
+confirm("the answer was = "+result );
+console.log(result)
+
+ }
+
+
+
+
+
+  // var pass = prompt("Enter the password");
+ 
+// function password(pass){
+//   var f = prompt("confirm the password");
+  
+//  console.log(pass + " this was the rit ansower");
+//   while(pass != f ){
+//     var f = prompt("Enter the password");
+//     var x = prompt("confirm the password"); 
+ 
+//    console.log(f + " this was the right ansower");
+// }
+
+// password();
+// }
+
+function rate(g){
   for(i=0 ;i<g ; i++){
     console.log(i)
     console.log("heloo")
-    document.write('<p  >'+"jg" +'/p' +"<img src='https://media.istockphoto.com/vectors/emoticon-on-speech-tought-bubble-icon-design-vector-id1208695755'")
-    document.write() 
+    document.write('<p  >'+"jg" +'/p' +"<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/108px-Star_empty.svg.png'");
+    
 
   }
+  return l
+  
+}
 
 // var o = 15;
 // var y = 12;
@@ -35,20 +69,20 @@ var g = prompt("give us rate");
 //    {
 //      alert("as you want");
 //    }
-<<<<<<< HEAD
+// <<<<<<< HEAD
 
-=======
+// =======
    
-<<<<<<< HEAD
-//    else {
-//      console.log('this is ropot');
-//      console.log(o+y,o-y,o/y);
-//    }
-=======
-//    else {
-//      console.log('this is ropot');
-//      console.log(o+y,o-y,o/y);
-//    }
-// >>>>>>> 5f02fb9ee724c5197a7a337311d85c2e8f902f50
-// >>>>>>> 6f855699a58db4794d0922792461b971e009cfd8
+// <<<<<<< HEAD
+// //    else {
+// //      console.log('this is ropot');
+// //      console.log(o+y,o-y,o/y);
+// //    }
+// =======
+// //    else {
+// //      console.log('this is ropot');
+// //      console.log(o+y,o-y,o/y);
+// //    }
+// // >>>>>>> 5f02fb9ee724c5197a7a337311d85c2e8f902f50
+// // >>>>>>> 6f855699a58db4794d0922792461b971e009cfd8
 
